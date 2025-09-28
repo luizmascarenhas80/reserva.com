@@ -3,6 +3,8 @@
 @import './navbar.css';
 @import './background.css';
 @import './inputs.css';
+@import './position.css';
+@import './colors.css';
 
 :root {
     --bg-orange:        #f4a05f;
