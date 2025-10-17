@@ -5,6 +5,7 @@
 @import './inputs.css';
 @import './position.css';
 @import './colors.css';
+@import './carousel.css';
 
 :root {
     --bg-orange:        #f4a05f;
